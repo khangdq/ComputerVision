@@ -1,4 +1,4 @@
-import streamlit as st
+# import streamlit as st
 # import io
 # from PIL import Image
 # import numpy as np
@@ -8,7 +8,7 @@ import streamlit as st
 # import pandas as pd
 # from tensorflow.keras.preprocessing import image
 import cv2
-from ultralytics import YOLO
+# from ultralytics import YOLO
 # import os
 # import shutil
 # @st.cache_resource
