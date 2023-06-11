@@ -6,13 +6,10 @@ import tensorflow as tf
 import requests
 from io import BytesIO
 import pandas as pd
-from ultralytics.yolo.engine.results import Results
 from tensorflow.keras.preprocessing import image
 from ultralytics import YOLO
-import cv2
 import os
 import shutil
-import time
 @st.cache_resource
 def load_modelClass():
     classifier=tf.keras.models.load_model('./Model/Project1_PreTrain_mobilenet_smallsize.h5')
