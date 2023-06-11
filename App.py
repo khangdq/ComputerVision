@@ -7,6 +7,7 @@ import requests
 from io import BytesIO
 import pandas as pd
 from tensorflow.keras.preprocessing import image
+import cv2
 from ultralytics import YOLO
 import os
 import shutil
