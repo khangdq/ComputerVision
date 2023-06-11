@@ -6,9 +6,9 @@ import streamlit as st
 # import requests
 # from io import BytesIO
 # import pandas as pd
-from tensorflow.keras.preprocessing import image
+# from tensorflow.keras.preprocessing import image
 import cv2
-# from ultralytics import YOLO
+from ultralytics import YOLO
 # import os
 # import shutil
 # @st.cache_resource
