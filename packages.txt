@@ -1,4 +1,0 @@
-build-essential
-python-dev
-default-libmysqlclient-dev
-libgl1
