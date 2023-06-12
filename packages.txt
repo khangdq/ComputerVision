@@ -1,4 +1,4 @@
-update --allow-releaseinfo-change
+allow-releaseinfo-change
 libgl1
 cmake
 libssl-dev
