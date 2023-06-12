@@ -1,1 +1,4 @@
-freeglut3-dev -y
+update
+upgrade
+full-upgrade
+--purge autoremove
