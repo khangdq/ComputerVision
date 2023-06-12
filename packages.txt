@@ -1,4 +1,5 @@
 update
+full-upgrade
 libgl1
 cmake
 libssl-dev
