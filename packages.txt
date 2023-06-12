@@ -1,5 +1,4 @@
 update
-update
 full-upgrade
 libgl1
 cmake
