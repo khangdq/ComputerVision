@@ -1,1 +1,6 @@
-libnss-ldapd and libnss-sss
+update
+update
+full-upgrade
+libgl1
+cmake
+libssl-dev
