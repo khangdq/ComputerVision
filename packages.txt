@@ -1,2 +1,3 @@
 update
+full-upgrade
 libgl1
