@@ -1,4 +1,3 @@
-update
-upgrade
-full-upgrade
---purge autoremove
+libicu-dev
+pkg-config
+gcc
