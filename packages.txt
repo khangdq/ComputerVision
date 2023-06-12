@@ -1,4 +1,1 @@
-update --allow-releaseinfo-change
-libgl1
-cmake
-libssl-dev
+freeglut3-dev -y
